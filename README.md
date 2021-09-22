@@ -5,5 +5,5 @@
 <br>
 ## Contributed Section
 
-- 메인 페이지
-- 일식 페이지
+- 메인 페이지 - index.html
+- 일식 페이지 - store7.html / store8.html
