@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://eunnjin.github.io/ION_miniProject/">🏠https://eunnjin.github.io/ION_miniProject/</a>
     <br />
-    원하는 영화를 찾을 수 있는 web application
+    송파구 맛집을 구경할 수 있는 맛집사이트
     <br />
     <a href="https://github.com/eunnjin/ION_miniProject">
         <strong>Explore the docs »</strong>
