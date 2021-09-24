@@ -30,7 +30,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#preview">Preview</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Built-With">Built With</a></li>
       </ul>
     </li>
     <li><a href="#show-your-support">Support</a></li>
@@ -68,7 +68,8 @@
 ![ill](https://user-images.githubusercontent.com/71173591/134606924-2fc3f04b-0a16-4a68-8103-d28480e121f6.jpg)<br><br>
 
 
-### Built-With 🔨
+### Built With
+🔨
 
 ##### Language
 
