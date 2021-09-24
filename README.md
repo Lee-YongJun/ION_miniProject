@@ -55,10 +55,16 @@
 
 ### Preview
 
-:heavy_check_mark:Home
-![main](https://user-images.githubusercontent.com/71173591/134480156-3a137af5-89e7-4e4a-ad6c-e531d4c22eef.png)
-
-
+:heavy_check_mark:메인 페이지
+![main](https://user-images.githubusercontent.com/71173591/134480156-3a137af5-89e7-4e4a-ad6c-e531d4c22eef.png) <br><br>
+:heavy_check_mark:한식 페이지
+![kor](https://user-images.githubusercontent.com/71173591/134603003-7d699e26-1f95-4a17-a614-c5d101050124.jpg)<br><br>
+:heavy_check_mark:양식 페이지
+![yangsik](https://user-images.githubusercontent.com/71173591/134602679-06eac3ee-a6f2-4d26-82f6-afe782ca17f9.jpg)<br><br>
+:heavy_check_mark:중식 페이지
+![joong](https://user-images.githubusercontent.com/71173591/134606737-ab944561-eeae-464a-95a5-ea25e3ea09cf.jpg)<br><br>
+:heavy_check_mark:일식 페이지
+![ill](https://user-images.githubusercontent.com/71173591/134606924-2fc3f04b-0a16-4a68-8103-d28480e121f6.jpg)<br><br>
 
 
 
